@@ -1,0 +1,31 @@
+.top{
+  width: 1000px; height: 200px;
+  background-color: black;
+}
+.mid{
+  width: 1000px; height: 200px;
+  background-color: red;
+}
+.bottom{
+  width: 1000px; height: 200px;
+  background-color: yellow;
+}
+.first{
+  width: 200px; height: 500px;
+  background-color: black;
+  display: inline-block;
+}
+.second{
+  width: 200px; height: 500px;
+  background-color: yellow;
+  display: inline-block;
+  position: relative;
+  right: 10px;
+}
+.third{
+  width: 200px; height: 500px;
+  background-color: red;
+  display: inline-block;
+  position: relative;
+  right: 20px;
+}

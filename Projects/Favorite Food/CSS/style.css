@@ -1,0 +1,31 @@
+body{
+  background-color:#22577A;
+  text-align:center;
+}
+h1{
+  color:white;
+  font-family: fantasy;
+}
+hr{
+  border-style: dotted;
+  height: 10px;
+  width:40%
+}
+h2{
+  font-family: fantasy;
+}
+.top-hr{
+  color:green;
+}
+.middle-hr{
+  color:white;
+}
+.bottom-hr{
+  color:red;
+}
+.pizza-img{
+  width: 400px
+}
+#middlerow{
+  color: white;
+}
